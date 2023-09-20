@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, Soy David Rolón</h1>
 <h3 align="center">Soy Full Stack Web Developer, y futuro Data Scientist</h3>
 
-- 🔭 Estoy trabajando actualmente en [Mi Portfolio](http://rolondavid.pythonanywhere.com/)
+- 📄 Este es mi portafolio personal [Mi Portafolio](http://rolondavid.pythonanywhere.com/)
+
+- 🔭 Estoy trabajando actualmente en este proyecto compartido de [Huertas Agroecologicas](https://github.com/davichuder/huertas_agroecologicas)
 
 - 🌱 Actualmente estoy aprendiendo **Big Data**
 
